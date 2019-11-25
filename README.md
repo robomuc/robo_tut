@@ -12,7 +12,6 @@ To run the built image run
 
 The first Chapter of the Tutorial can be found at /tutorial/ch1.ipynb the first challenge at /tutorial/ch1_chl.ipynb
 
-The fir
 # ToDos:
 - Easy integration for virtual servers 
 - Robotic Arm Chapter
